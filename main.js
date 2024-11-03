@@ -11,7 +11,7 @@ app.get("/", (req, res) =>{
   const people = [
     {
       id: 1,
-      name: `Eric`,
+      name: `Eric opoku`,
       age:24
     },
     {
